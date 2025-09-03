@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.app-container {
+  padding: 2rem;
+}
+
+.product-grid {
+  margin-top: 24px; /* or any value you prefer */
+}

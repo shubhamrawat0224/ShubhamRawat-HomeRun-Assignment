@@ -1,5 +1,5 @@
 import React from "react";
-
+import "../styles.css";
 export default function CartIcon({ count }) {
   return (
     <div className="cart-icon">

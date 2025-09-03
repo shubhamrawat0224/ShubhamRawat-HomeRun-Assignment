@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import "../styles.css";
 export default function ProductCard({ product, updateCart }) {
   const [qty, setQty] = useState(0);
   const MAX_QTY = 20;
